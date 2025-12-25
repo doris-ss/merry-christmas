@@ -5,7 +5,7 @@
 
 ## 🚀 立即访问
 
-**[👉 点击这里查看我的圣诞树网页](https://github.com/doris-ss/merry-christmas)**
+**[👉 点击这里查看我的圣诞树网页](https://doris-ss.github.io/merry-christmas/)**
 
 ---
 
